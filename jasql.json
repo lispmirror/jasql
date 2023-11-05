@@ -3,7 +3,7 @@
   "description": "Simple SQL in Common Lisp. A direct port of Python's anosql.",
   "source": "https://github.com/rudolfochrist/jasql.git",
   "source-type": "git",
-  "commit": "0.5.0",
+  "commit": "0.5",
   "systems": [
     [
       "jasql",
