@@ -1,4 +1,3 @@
-
 * jasql
 
 Simple SQL in Common Lisp. A direct port of Python's anosql.
