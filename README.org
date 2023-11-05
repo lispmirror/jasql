@@ -1,0 +1,8 @@
+
+* jasql
+
+Simple SQL in Common Lisp. A direct port of Python's anosql.
+
+| source | git:https://github.com/rudolfochrist/jasql.git |
+| commit | 0.5.0 |
+| systems | jasql jasql.postgres jasql.postgres/test jasql.sqlite jasql.sqlite/test |
