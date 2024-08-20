@@ -3,5 +3,5 @@
 Simple SQL in Common Lisp. A direct port of Python's anosql.x
 
 | source | git:https://github.com/rudolfochrist/jasql.git |
-| commit | 0.5 |
+| commit | 0.6 |
 | systems | jasql jasql.postgres jasql.postgres/test jasql.sqlite jasql.sqlite/test |
